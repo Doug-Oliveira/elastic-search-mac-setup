@@ -1,22 +1,22 @@
 # elastic-search-mac-setup
 
-link de referencia => https://github.com/elastic/elasticsearch/issues/91159
+Reference Link => https://github.com/elastic/elasticsearch/issues/91159
 
-Os arquivos de instalacao do axbrew estão no cominho abaixo:
-
-
+The axbrew installation files are in the path below:
 
 
 ```
 /usr/local/homebrew/etc 
 ```
-ou
+or
 ```
 /usr/local/homebrew/opt
 ```
 
-![image](https://github.com/Doug-Oliveira/elastic-search-mac-setup/assets/56242853/4a90f49a-7355-4e11-b99e-a527b2973f1b)
+
+![image](https://github.com/Doug-Oliveira/elastic-search-mac-setup/assets/56242853/bc5aac01-bb5d-4d2f-90b3-660885f2aebe)
 
 ------------
 
-![image](https://github.com/Doug-Oliveira/elastic-search-mac-setup/assets/56242853/8c381d2d-d9e1-434f-ab31-58ae3f2c0425)
+
+![image](https://github.com/Doug-Oliveira/elastic-search-mac-setup/assets/56242853/7a89018f-acd1-4d92-b53a-81aeec77892a)
